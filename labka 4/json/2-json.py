@@ -11,3 +11,5 @@ for i in js['imdata']:
     print( i['l1PhysIf']['attributes']['speed'], end= "   ")
     print( i['l1PhysIf']['attributes']['mtu'], end= '\n')
 file.close()
+
+
